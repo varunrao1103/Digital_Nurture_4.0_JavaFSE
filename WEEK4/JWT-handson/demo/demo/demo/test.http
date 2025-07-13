@@ -1,0 +1,2 @@
+GET http://localhost:8080/authenticate
+Authorization: Basic dXNlcjpwd2Q=
